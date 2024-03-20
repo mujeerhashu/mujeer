@@ -1,0 +1,7 @@
+
+git init 
+  258  git checkout -b main
+  259  git checkout -b test
+  260  git checkout -b dev
+ 273  git remote add main git@github.com:mujeerhashu/mujeer.git
+git push
